@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project Uses tesing mode of Firebase and Firestore for backend, hosting and Database ( Valid till 45 days from hosting )
 
 ## Available Scripts
 
